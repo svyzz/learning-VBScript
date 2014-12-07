@@ -3,9 +3,9 @@ learning-VBScript
 
 This repository includes code that I wrote for *myself* towards learning VBScript(!). 
 
-I *HAD* to learn VBScript as part of a new project that I've been working on recently and decided to take the fun approach for once and consequently came up with a simple click-based game that runs **ONLY on Windows** and another library of functions that can be plugged into QTP/UFT scripts (or not).
+I *had* to learn VBScript as part of a new project that I've been working on recently and decided to take the fun approach for once and consequently came up with a simple click-based game that runs **ONLY on Windows** and another library of functions that can be plugged into QTP/UFT scripts (or not).
 
-Whilst the game is complete, the library is a work-in-progress and I intend to extend the library with more functions when I have the time and patience to do so.
+Whilst the game is (rudimentarily) complete, the library is a work-in-progress and I intend to extend the library with more functions when I have the time and patience to do so.
 
 Details, Installation and Usage
 ======================
