@@ -1,6 +1,8 @@
 Option Explicit
 
 Dim objHTTP, rex, score, matches, ptrn
+
+'Change the teams here based on the scores for the match you want
 Dim team1: team1 = "Australia"
 Dim team2: team2 = "India"
 
