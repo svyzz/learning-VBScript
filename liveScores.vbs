@@ -25,6 +25,7 @@ If objHTTP.Status = 200 Then
 	If matches.Count = 1 Then
 		'This was the best way to include details about which team's presently batting and scores from the second innnigs
 		score = matches.Item(0).Submatches(1) & matches.Item(0).Submatches(2) & matches.Item(0).Submatches(3) & matches.Item(0).Submatches(4)
+		score = Replace(score, "&amp;", Chr(38))
 		MsgBox score
 	End If
 Else
