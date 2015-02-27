@@ -41,3 +41,16 @@ Public Function isLeapYear(ByVal year)
 		isLeapYear = False
 	End If
 End Function
+
+'@Documentation: Disco lights on your keyboard! Such awesomeness, so majestic, much fancy, very bored.
+Public Sub disco()
+	Set WshShell = WScript.CreateObject("WScript.Shell")
+	do
+		WshShell.SendKeys "{NUMLOCK}"
+		WScript.Sleep 200
+		WshShell.SendKeys "{CAPSLOCK}"
+		WScript.Sleep 200
+		WshShell.SendKeys "{SCROLLLOCK}"
+		WScript.Sleep 200
+	loop
+End Sub
