@@ -13,10 +13,18 @@ Details, Installation and Usage
 ======================
 * ***Idle*** - toggles NUMLOCK on and off to prevent your Windows machine from locking up when left idle. In its purest essence, it's a poor man's Caffeine. Change NUMLOCK to SCROLLLOCK and things should still work just fine!
 
+---
+
 * ***The Fastest Click*** - is a game that tracks how fast you can click on two MsgBox buttons in succession. It turned out to be incredibly successful during a short trialing period amongst my colleagues and subsequently led to people cheating their way to high scores. Please read the source for more details!
+
+---
 
 * ***Live Scores*** was created to parse the 'Live Scores' RSS feed from CricInfo and search for a cricket match presently running that you happen to be interested in. With caps on bandwidth and me not wanting to open a content rich/heavy page, this serves me really well and live scores are a click away!
 
+---
+
 * ***The Function Library*** contains a bunch of utilitarian functions that I wrote to learn the basics of VBScript. They make for good learning exercises and also help when you're writing automated scripts with QTP/UFT.
+
+---
 
 As with any VBS file, all you have to do is download and execute! The function library can be exported as a QFL file for usage inside of QTP/UFT.
