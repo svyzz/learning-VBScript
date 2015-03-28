@@ -11,7 +11,7 @@ Whilst the game is (rudimentarily) complete, the library is a work-in-progress a
 
 Details, Installation and Usage
 ======================
-* ***Idle*** - toggles NUMLOCK on and off to prevent your Windows machine from locking up when left idle. In its purest essence, it's a poor man's Caffeine. 
+* ***Idle*** - toggles NUMLOCK on and off to prevent your Windows machine from locking up when left idle. In its purest essence, it's a poor man's Caffeine. Change NUMLOCK to SCROLLLOCK and things should still work just fine!
 
 * ***The Fastest Click*** - is a game that tracks how fast you can click on two MsgBox buttons in succession. It turned out to be incredibly successful during a short trialing period amongst my colleagues and subsequently led to people cheating their way to high scores. Please read the source for more details!
 
